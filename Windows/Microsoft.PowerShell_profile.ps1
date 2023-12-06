@@ -1,0 +1,1 @@
+Set-Alias -Name wsl2 -Value C:\Windows\system32\wsl.exe
